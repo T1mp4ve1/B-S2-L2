@@ -6,6 +6,8 @@
         public string? Institute { get; set; }
         public string? TypeOfInst { get; set; }
         public string? FromToStud { get; set; }
+        //public DateOnly From { get; set; }
+        //public DateOnly To { get; set; }
 
         public void studyInfoRequest()
         {

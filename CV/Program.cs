@@ -20,15 +20,22 @@ public class Program
         Console.WriteLine($"Email: {cv.GetPersonalInfo.Email}");
 
         Console.WriteLine("\nSTUDI EFFETTUATI:");
-        Console.WriteLine($"Qualifica: {cv.GetUserStudy.Qual}");
-        Console.WriteLine($"Istituto: {cv.GetUserStudy.Institute}");
-        Console.WriteLine($"Tipo: {cv.GetUserStudy.TypeOfInst}");
-        Console.WriteLine($"Dal/Al: {cv.GetUserStudy.FromToStud}");
+        foreach (var exp in cv.GetUserStudy)
+        {
+            Console.WriteLine($"Qualifica: {exp.Qual}");
+            Console.WriteLine($"Istituto: {exp.Institute}");
+            Console.WriteLine($"Tipo: {exp.TypeOfInst}");
+            Console.WriteLine($"Dal/Al: {exp.FromToStud}\n");
+        }
+
 
         Console.WriteLine("\nESPERIENZE:");
-        Console.WriteLine($"Esperienza presso: {cv.GetUserExp.Agency}");
-        Console.WriteLine($"Ruolo: {cv.GetUserExp.JobTitle}");
-        Console.WriteLine($"Periodo: {cv.GetUserExp.FromToEsp}");
+        foreach (var exp in cv.GetUserExp)
+        {
+            Console.WriteLine($"Esperienza presso: {exp.Agency}");
+            Console.WriteLine($"Ruolo: {exp.JobTitle}");
+            Console.WriteLine($"Periodo: {exp.FromToEsp}\n");
+        }
 
     }
 }
