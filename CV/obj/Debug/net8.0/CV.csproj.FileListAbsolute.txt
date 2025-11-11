@@ -1,0 +1,15 @@
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\obj\Debug\net8.0\CV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\obj\Debug\net8.0\CV.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\obj\Debug\net8.0\CV.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\obj\Debug\net8.0\CV.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\obj\Debug\net8.0\CV.sourcelink.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\bin\Debug\net8.0\CV.exe
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\bin\Debug\net8.0\CV.deps.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\bin\Debug\net8.0\CV.runtimeconfig.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\bin\Debug\net8.0\CV.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\bin\Debug\net8.0\CV.pdb
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\obj\Debug\net8.0\CV.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\obj\Debug\net8.0\refint\CV.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\obj\Debug\net8.0\CV.pdb
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\obj\Debug\net8.0\CV.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L2\CV\obj\Debug\net8.0\ref\CV.dll
