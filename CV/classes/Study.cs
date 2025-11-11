@@ -9,6 +9,7 @@
 
         public void studyInfoRequest()
         {
+            Console.Clear();
             Console.WriteLine("""
 
                 Inserisci i tuoi studi:
